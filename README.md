@@ -33,4 +33,8 @@ This app provides a simple prediction using machine learning.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+## Future Improvements
+- Train-test split & cross-validation
+- Model comparison (Linear vs Random Forest)
+- Deployment with saved model
 
